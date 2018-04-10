@@ -52,3 +52,7 @@
   + 简介：Apache Spark is a fast and general engine for large-scale data processing.
   + 语言：Scala(76) + Java(10) + Python(7)
   + 代码：[github 主页](https://github.com/apache/spark)（16861 star）
+* [Kafka](http://kafka.apache.org/)
+  + 介绍：Kafka is used for building real-time data pipelines and streaming apps. It is horizontally scalable, fault-tolerant, wicked fast, and runs in production in thousands of companies.
+  + 语言：Java(66) + Scala(28)
+  + 代码：[github 主页](https://github.com/apache/kafka)（7944 star）
