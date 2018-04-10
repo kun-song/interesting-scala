@@ -37,3 +37,18 @@
   + 语言：Scala
   + 代码：[github 主页](https://github.com/apache/incubator-toree)（460 star）
   + 孵化时间：2015-12-02 -> 今
+
+## Apache Projects
+
+* [PredictionIO](http://predictionio.apache.org/)
+  + 简介：Apache PredictionIO is an open source Machine Learning Server built on top of a state-of-the-art open source stack for developers and data scientists to create predictive engines for any machine learning task.
+  + 语言：Scala
+  + 代码：[github 主页](https://github.com/apache/predictionio)（11000+ star）
+* [Flink](http://flink.apache.org/)
+  + 简介：Apache Flink® is an open-source stream processing framework for distributed, high-performing, always-available, and accurate data streaming applications.
+  + 语言：Java(83) + Scala(15)
+  + 代码：[github 主页](https://github.com/apache/flink)（3516 star）
+* [Spark](
+  + 简介：Apache Spark is a fast and general engine for large-scale data processing.
+  + 语言：Scala(76) + Java(10) + Python(7)
+  + 代码：[github 主页](https://github.com/apache/spark)
