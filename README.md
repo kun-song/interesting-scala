@@ -56,3 +56,25 @@
   + 介绍：Kafka is used for building real-time data pipelines and streaming apps. It is horizontally scalable, fault-tolerant, wicked fast, and runs in production in thousands of companies.
   + 语言：Java(66) + Scala(28)
   + 代码：[github 主页](https://github.com/apache/kafka)（7944 star）
+
+## Twitter
+
+* [Scalding]https://github.com/twitter/scalding)（2982 star）
+  + 介绍：Scalding is a Scala library that makes it easy to specify Hadoop MapReduce jobs. Scalding is built on top of Cascading, a Java library that abstracts away low-level Hadoop details. Scalding is comparable to Pig, but offers tight integration with Scala, bringing advantages of Scala to your MapReduce jobs.
+  + 语言：Scala
+* [Finagle](https://twitter.github.io/finagle/)
+
+## Lightbend
+
+* Akka
+* Play
+* Slick
+
+## fp
+
+* Cats
+* Scalaz
+
+## DB
+
+* quill
