@@ -63,7 +63,9 @@
   + 介绍：Scalding is a Scala library that makes it easy to specify Hadoop MapReduce jobs. Scalding is built on top of Cascading, a Java library that abstracts away low-level Hadoop details. Scalding is comparable to Pig, but offers tight integration with Scala, bringing advantages of Scala to your MapReduce jobs.
   + 语言：Scala
 * [Finagle](https://twitter.github.io/finagle/)
-
+* [Linkerd](https://github.com/linkerd/linkerd)
+  + 介绍：Production-grade feature-rich service mesh for any platform
+  
 ## Lightbend
 
 * Akka
@@ -79,7 +81,3 @@
 
 * quill
 
-## Others
-
-* [Linkerd](https://github.com/linkerd/linkerd)
-  + 介绍：Production-grade feature-rich service mesh for any platform
