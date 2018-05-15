@@ -1,5 +1,9 @@
 # interesting-scala
 
+## 区块链
+
+* [Scorex](https://github.com/ScorexFoundation/Scorex)
+
 ## Apache Incubator
 
 * [OpenWhisk](https://openwhisk.apache.org/)
