@@ -84,4 +84,7 @@
 ## DB
 
 * quill
+* [prisma](https://www.prisma.io/)（8530 stars）
+  + 介绍：Prisma is a performant open-source GraphQL ORM-like* layer doing the heavy lifting in your GraphQL server.
+  + [github](https://github.com/prismagraphql/prisma)
 
